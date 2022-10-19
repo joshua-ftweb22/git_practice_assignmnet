@@ -1,0 +1,31 @@
+//To find prime number
+let num=11;
+
+let count=0;
+
+for(let i=1;i<=num;i++){
+   
+count++;
+
+}
+
+if(count!=2){
+
+console.log("prime number");
+
+}else{
+
+console.log("not prime");
+
+}
+
+//to find palindrome
+let str="madam";
+
+let bag="";
+
+for(let i=0;i<str.length;i++){
+
+console.log(str[i]);
+
+]
